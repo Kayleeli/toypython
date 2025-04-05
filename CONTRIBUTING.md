@@ -40,18 +40,18 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `toypython` for local development.
+Ready to contribute? Here's how to set up `ia5_kli_toypython` for local development.
 
-1. Download a copy of `toypython` locally.
+1. Download a copy of `ia5_kli_toypython` locally.
 
-2. Create and activate a conda environment for `toypython`:
+2. Create and activate a conda environment for `ia5_kli_toypython`:
 
     ```console
-    $ conda create -n toypython python=3.11
-    $ conda activate toypython
+    $ conda create -n ia5_kli_toypython python=3.11
+    $ conda activate ia5_kli_toypython
     ```
 
-3. Install `toypython` using `poetry`:
+3. Install `ia5_kli_toypython` using `poetry`:
 
     ```console
     $ poetry install
@@ -77,5 +77,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `toypython` project is released with a
+Please note that the `ia5_kli_toypython` project is released with a
 Code of Conduct. By contributing to this project you agree to abide by its terms.

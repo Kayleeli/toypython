@@ -3,7 +3,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = toypython
+SPHINXPROJ    = ia5_kli_toypython
 SOURCEDIR     = .
 BUILDDIR      = _build
 

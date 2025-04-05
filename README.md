@@ -1,11 +1,11 @@
-# toypython
+# ia5_kli_toypython
 
 Python version of toy.R package, to make some common tasks with string manipulation and regular expressions a bit easier. 
 
 ## Installation
 
 ```bash
-$ pip install toypython
+$ pip install ia5_kli_toypython
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ $ pip install toypython
 The str_split_one function splits a string into a list of substrings using a specified delimiter or regular expression pattern, with an optional limit on the number of splits.
 
 ```python
-from toypython.toypython import str_split_one
+from ia5_kli_toypython.ia5_kli_toypython import str_split_one
 
 result = str_split_one("alfa,bravo,charlie,delta", ",")
 print(result)
@@ -25,8 +25,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`toypython` was created by Kaylee Li. It is licensed under the terms of the MIT license.
+`ia5_kli_toypython` was created by Kaylee Li. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`toypython` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`ia5_kli_toypython` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).

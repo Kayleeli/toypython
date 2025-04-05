@@ -1,4 +1,4 @@
-from toypython.toypython import str_split_one
+from ia5_kli_toypython.ia5_kli_toypython import str_split_one
 
 import regex
 

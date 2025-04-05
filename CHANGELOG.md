@@ -4,4 +4,4 @@
 
 ## v0.1.0 (04/04/2025)
 
-- First release of `toypython`!
+- First release of `ia5_kli_toypython`!

@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"toypython"
+project = u"ia5_kli_toypython"
 copyright = u"2025, Kaylee Li"
 author = u"Kaylee Li"
 

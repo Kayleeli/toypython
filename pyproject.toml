@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "toypython"
+name = "ia5_kli_toypython"
 version = "0.1.0"
 description = "python version of toy.R, to make some common tasks with string manipulation and regular expressions a bit easier."
 authors = ["Kaylee Li"]
