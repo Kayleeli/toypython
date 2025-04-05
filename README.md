@@ -1,6 +1,6 @@
 # toypython
 
-Python version of toy.R, to make some common tasks with string manipulation and regular expressions a bit easier. 
+Python version of toy.R package, to make some common tasks with string manipulation and regular expressions a bit easier. 
 
 ## Installation
 
