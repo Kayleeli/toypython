@@ -1,6 +1,6 @@
 # toypython
 
-python version of toy.R, to make some common tasks with string manipulation and regular expressions a bit easier.
+Python version of toy.R, to make some common tasks with string manipulation and regular expressions a bit easier. 
 
 ## Installation
 
@@ -10,7 +10,14 @@ $ pip install toypython
 
 ## Usage
 
-- TODO
+The str_split_one function splits a string into a list of substrings using a specified delimiter or regular expression pattern, with an optional limit on the number of splits.
+
+```python
+from toypython.toypython import str_split_one
+
+result = str_split_one("alfa,bravo,charlie,delta", ",")
+print(result)
+```
 
 ## Contributing
 
