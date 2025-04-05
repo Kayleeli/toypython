@@ -6,7 +6,7 @@ Python version of [toy.R](https://github.com/Kayleeli/toy.R) package, to make so
 
 ```bash
 # This package is only install to TestPyPI, as noted in assignment
-$ pip install --index-url https://test.pypi.org/simple/ \
+pip install --index-url https://test.pypi.org/simple/ \
   --extra-index-url https://pypi.org/simple \
   ia5_kli_toypython
 ```
