@@ -1,11 +1,14 @@
 # ia5_kli_toypython
 
-Python version of toy.R package, to make some common tasks with string manipulation and regular expressions a bit easier. 
+Python version of [toy.R](https://github.com/Kayleeli/toy.R) package, to make some common tasks with string manipulation and regular expressions a bit easier. 
 
 ## Installation
 
 ```bash
-$ pip install ia5_kli_toypython
+# This package is only install to TestPyPI, as noted in assignment
+$ pip install --index-url https://test.pypi.org/simple/ \
+  --extra-index-url https://pypi.org/simple \
+  ia5_kli_toypython
 ```
 
 ## Usage
@@ -18,6 +21,9 @@ from ia5_kli_toypython.ia5_kli_toypython import str_split_one
 result = str_split_one("alfa,bravo,charlie,delta", ",")
 print(result)
 ```
+
+## Additional Information
+- CI/CD will not be setup as there will be no continous deployment for this package.
 
 ## Contributing
 
